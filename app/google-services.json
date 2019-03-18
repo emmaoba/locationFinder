@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436171905549",
+    "firebase_url": "https://gpslocation-f7978.firebaseio.com",
+    "project_id": "gpslocation-f7978",
+    "storage_bucket": "gpslocation-f7978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436171905549:android:349242d40c6937a0",
+        "android_client_info": {
+          "package_name": "com.example.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436171905549-go5g9vv76saj3pman2qd17h3l1gnof1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMV0eYu3hP13L0vQKzn2d5UphiKU1Kjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
